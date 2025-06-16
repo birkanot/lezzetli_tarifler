@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff8f0;
+  color: #333;
+}
+
+header {
+  background-color: #ff6f61;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #ffe5dc;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #d84315;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #ffccbc;
+  text-align: center;
+  padding: 15px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.ad-area {
+  background-color: #fbe9e7;
+  border: 1px dashed #ffab91;
+  padding: 15px;
+  margin-top: 20px;
+  text-align: center;
+  font-style: italic;
+  color: #bf360c;
+}
