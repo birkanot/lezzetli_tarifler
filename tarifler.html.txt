@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Tarif Listesi</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Tüm Tarifler</h1>
+  </header>
+
+  <nav>
+    <a href="index.html">Anasayfa</a>
+    <a href="tarifler.html">Tarifler</a>
+    <a href="iletisim.html">İletişim</a>
+  </nav>
+
+  <main>
+    <ul>
+      <li><a href="tarif.html">Karnıyarık</a></li>
+      <li><a href="tarif.html">Mercimek Çorbası</a></li>
+      <li><a href="tarif.html">Baklava</a></li>
+    </ul>
+
+    <div class="ad-area">
+      Tarif sayfası reklam alanı
+    </div>
+  </main>
+
+  <footer>
+    © 2025 Lezzetli Tarifler
+  </footer>
+</body>
+</html>

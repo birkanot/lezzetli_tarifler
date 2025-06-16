@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Karnıyarık Tarifi</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Karnıyarık</h1>
+  </header>
+
+  <nav>
+    <a href="index.html">Anasayfa</a>
+    <a href="tarifler.html">Tarifler</a>
+    <a href="iletisim.html">İletişim</a>
+  </nav>
+
+  <main>
+    <h2>Malzemeler</h2>
+    <ul>
+      <li>Patlıcan</li>
+      <li>Kıyma</li>
+      <li>Domates</li>
+      <li>Soğan</li>
+      <li>Sarımsak</li>
+    </ul>
+
+    <h2>Hazırlanışı</h2>
+    <p>Patlıcanları kızartın. İç harcı pişirin. Fırında üzeri kızarana kadar pişirin.</p>
+
+    <div class="ad-area">
+      Tarif içi reklam alanı
+    </div>
+  </main>
+
+  <footer>
+    © 2025 Lezzetli Tarifler
+  </footer>
+</body>
+</html>

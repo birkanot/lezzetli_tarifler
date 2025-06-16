@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Lezzetli Tarifler</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Lezzetli Tarifler'e Hoş Geldiniz!</h1>
+  </header>
+
+  <nav>
+    <a href="index.html">Anasayfa</a>
+    <a href="tarifler.html">Tarifler</a>
+    <a href="iletisim.html">İletişim</a>
+  </nav>
+
+  <main>
+    <p>Tarifleri görmek için <a href="tarifler.html">tıklayın</a>.</p>
+
+    <div class="ad-area">
+      Buraya Google reklamı gelecek
+    </div>
+  </main>
+
+  <footer>
+    © 2025 Lezzetli Tarifler
+  </footer>
+</body>
+</html>

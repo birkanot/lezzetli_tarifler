@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>İletişim</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bize Ulaşın</h1>
+  </header>
+
+  <nav>
+    <a href="index.html">Anasayfa</a>
+    <a href="tarifler.html">Tarifler</a>
+    <a href="iletisim.html">İletişim</a>
+  </nav>
+
+  <main>
+    <p>Bizimle iletişime geçmek için <a href="mailto:info@lezzetlitarifler.com">buraya tıklayın</a>.</p>
+
+    <div class="ad-area">
+      İletişim sayfası reklam alanı
+    </div>
+  </main>
+
+  <footer>
+    © 2025 Lezzetli Tarifler
+  </footer>
+</body>
+</html>
